@@ -20,7 +20,13 @@ Software development is the process or the course of making a system/application
 Vulnerabilities within software can be known as bugs, glitches, errors or even flaws, these can be found in not only the software but also the operating system. Software vulnerabilites can easily be missed or left in the software by accident. In order to reduce the chance of this happening then it is important that the correct precausions are taken in order to firstly identify these vulnerabilities but also reduce or remove them.
 
 ## 1.0 primary research
+As my main goal from this report is to find out how to reduce vulnerabilities in a system during its development i thought that it might be best to ask some software development students to get their knowledge and understanding. The Questionaire that i have given them to complete will have some questions in relation to cyber security and software vulnerabilities. Through analysing the results i hope to answer three questions. The three questions are below:
 
+1. How important do software developers find their own password protection?
+
+2. What vulnerabilities do student software developers know?
+
+3. Has anyone of the participants ever experienced a form of cyber attack and if not how do they prevent it from happening?
 ## 2.0 seconary research
 
 ## 3.0 comparison of both sets of research
