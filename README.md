@@ -21,6 +21,7 @@ Vulnerabilities within software can be known as bugs, glitches, errors or even f
 
 ## 1.0 primary research
 As my main goal from this report is to find out how to reduce vulnerabilities in a system during its development i thought that it might be best to ask some software development students to get their knowledge and understanding. The Questionaire that i have given them to complete will have some questions in relation to cyber security and software vulnerabilities. Through analysing the results i hope to answer three questions. The three questions are below:
+
 --- 
 1. How important do software developers find their own password protection?
 
