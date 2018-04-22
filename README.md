@@ -21,12 +21,12 @@ Vulnerabilities within software can be known as bugs, glitches, errors or even f
 
 ## 1.0 primary research
 As my main goal from this report is to find out how to reduce vulnerabilities in a system during its development i thought that it might be best to ask some software development students to get their knowledge and understanding. The Questionaire that i have given them to complete will have some questions in relation to cyber security and software vulnerabilities. Through analysing the results i hope to answer three questions. The three questions are below:
-
----
+--- 
 1. How important do software developers find their own password protection?
 
 For the first question i wanted to find out just how important software developers considered their own passwords. My reasoning behind this was that a lot of applications that are used to develop software or even the systems that they are used on require password protection to keep the information and data safe, therefore if an individual gained access to the system or application then they can make changes or install viruses, trojans or malware onto the system. I believe that in order to make sure that no one is able to tamper with your work, you need to keep it safe and secure with a very secure passcode as a first line of defence.
----
+
+--- 
 2. What vulnerabilities do student software developers know?
 
 ---
