@@ -30,9 +30,14 @@ For the first question i wanted to find out just how important software develope
 --- 
 2. What vulnerabilities do student software developers know?
 
+I wanted the answer to this question because i wanted to see what vulnerabilities software developers would already look out for and try to prevent. If a software developer was experienced and knowledgable then they would understand and try to prevent ways of users gaining access in an unwanted attack. The more vulnerabiliites that a software developer knows then the less mistake or loopholes are going to appear in their code. 
+
 ---
 3. Has anyone of the participants ever experienced a form of cyber attack and if not how do they prevent it from happening?
 
+With this last question i wanted to find out how many people had experienced a cyber or attack or how many havent. The reason for this is so i can see how many people take care and make sure that they keep their own personal data safe and secure. A good software developer will always make sure to protect and store their data and private files safely. I also wanted to see how many software developers have made simple mistakes and allowed themselves to recieve a form of cyber attack big or small, it still shows a breach in their own security methods.
+
+---
 
 ## 2.0 seconary research
 
