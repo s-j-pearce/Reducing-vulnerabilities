@@ -1,15 +1,15 @@
 # How to reduce vulnerabilities in a system during development?
 
 ## Table of contents:
-[0.0 Introduction](https://github.com/s-j-pearce/Reducing-vulnerabilities-/blob/master/README.md#introduction)
+[0.0 Introduction](https://github.com/s-j-pearce/Reducing-vulnerabilities-#00-introduction)
 
-[1.0 primary research](https://github.com/s-j-pearce/Reducing-vulnerabilities-/blob/master/README.md#primary-research)
+[1.0 primary research](https://github.com/s-j-pearce/Reducing-vulnerabilities-#10-primary-research)
 
-[2.0 seconary research](https://github.com/s-j-pearce/Reducing-vulnerabilities-/blob/master/README.md#seconary-research)
+[2.0 seconary research](https://github.com/s-j-pearce/Reducing-vulnerabilities-#20-seconary-research)
 
-[3.0 comparison of both sets of research](https://github.com/s-j-pearce/Reducing-vulnerabilities-/blob/master/README.md#comparison-of-both-sets-of-research)
+[3.0 comparison of both sets of research](https://github.com/s-j-pearce/Reducing-vulnerabilities-#30-comparison-of-both-sets-of-research)
 
-[4.0 conclusion](https://github.com/s-j-pearce/Reducing-vulnerabilities-/blob/master/README.md#conclusion)
+[4.0 conclusion](https://github.com/s-j-pearce/Reducing-vulnerabilities-#40-conclusion)
 
 ## 0.0 Introduction
 In this report I am going to be discussing the question; "How to reduce vulnerabilities in a system during development?". I will break the report up into several sections, the first will be primary research where i will take a look at the results from the questionaires that i handed out. The second section is going to be about secondary research, this will be what other sources have discovered through their research methods. Third will be where i compare the two sets of research and their results. The fourth and final section will be a conclusion to the report.
