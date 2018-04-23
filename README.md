@@ -29,19 +29,25 @@ As my main goal from this report is to find out how to reduce vulnerabilities in
 
 For the first question i wanted to find out just how important software developers considered their own passwords. My reasoning behind this was that a lot of applications that are used to develop software or even the systems that they are used on require password protection to keep the information and data safe, therefore if an individual gained access to the system or application then they can make changes or install viruses, trojans or malware onto the system. I believe that in order to make sure that no one is able to tamper with your work, you need to keep it safe and secure with a very secure passcode as a first line of defence.
 
+![software vulnerabilities questionnaire results question 1](https://user-images.githubusercontent.com/31927590/39117306-a4af0fc4-46de-11e8-8a61-aeda6979fbf3.PNG)
+
 --- 
 2. What vulnerabilities do student software developers know?
 
 I wanted the answer to this question because i wanted to see what vulnerabilities software developers would already look out for and try to prevent. If a software developer was experienced and knowledgable then they would understand and try to prevent ways of users gaining access in an unwanted attack. The more vulnerabiliites that a software developer knows then the less mistake or loopholes are going to appear in their code. 
+
+![software vulnerabilities questionnaire results question 2](https://user-images.githubusercontent.com/31927590/39117364-af342de4-46de-11e8-9f26-2df08cfe850b.PNG)
 
 ---
 3. Has anyone of the participants ever experienced a form of cyber attack and if not how do they prevent it from happening?
 
 With this last question i wanted to find out how many people had experienced a cyber or attack or how many havent. The reason for this is so i can see how many people take care and make sure that they keep their own personal data safe and secure. A good software developer will always make sure to protect and store their data and private files safely. I also wanted to see how many software developers have made simple mistakes and allowed themselves to recieve a form of cyber attack big or small, it still shows a breach in their own security methods.
 
+![software vulnerabilities questionnaire results question 3](https://user-images.githubusercontent.com/31927590/39117378-b6ec1088-46de-11e8-9961-1a01447cd51d.PNG)
+
 ---
 
-The image below is the resuts of my questionaire. I put all of the information that i have recieved into a excel spreadsheet in order for me to easily analyse and see the results in terms of numbers. For instance I am able to see the average of how secure people think their password is. I can also use the data to see who thinks their password is secure but they got the next question wrong, which is: "Out of the two passwords below, which one do you feel will take the longest to crack?" using the spreadsheet i could easily see that 7 people who said that they think their password was rated above 5/10 got the secound question about a more secure password wrong which shows that they dont really know how secure their password is or in this case how unsecure it is.
+The image below is the full results of my questionaire. I put all of the information that i have recieved into a excel spreadsheet in order for me to easily analyse and see the results in terms of numbers. For instance I am able to see the average of how secure people think their password is. I can also use the data to see who thinks their password is secure but they got the next question wrong, which is: "Out of the two passwords below, which one do you feel will take the longest to crack?" using the spreadsheet i could easily see that 7 people who said that they think their password was rated above 5/10 got the secound question about a more secure password wrong which shows that they dont really know how secure their password is or in this case how unsecure it is.
 
 ![software vulnerabilities questionnaire results](https://user-images.githubusercontent.com/31927590/39115771-a4ac5a58-46da-11e8-9951-130b6f612325.PNG)
 
