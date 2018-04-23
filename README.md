@@ -39,6 +39,12 @@ I wanted the answer to this question because i wanted to see what vulnerabilitie
 
 With this last question i wanted to find out how many people had experienced a cyber or attack or how many havent. The reason for this is so i can see how many people take care and make sure that they keep their own personal data safe and secure. A good software developer will always make sure to protect and store their data and private files safely. I also wanted to see how many software developers have made simple mistakes and allowed themselves to recieve a form of cyber attack big or small, it still shows a breach in their own security methods.
 
+---
+
+The image below is the resuts of my questionaire. I put all of the information that i have recieved into a excel spreadsheet in order for me to easily analyse and see the results in terms of numbers. For instance I am able to see the average of how secure people think their password is. I can also use the data to see who thinks their password is secure but they got the next question wrong, which is: "Out of the two passwords below, which one do you feel will take the longest to crack?" using the spreadsheet i could easily see that 7 people who said that they think their password was rated above 5/10 got the secound question about a more secure password wrong which shows that they dont really know how secure their password is or in this case how unsecure it is.
+
+![software vulnerabilities questionnaire results](https://user-images.githubusercontent.com/31927590/39115771-a4ac5a58-46da-11e8-9951-130b6f612325.PNG)
+
 ## 2.0 seconary research
 
 ---
