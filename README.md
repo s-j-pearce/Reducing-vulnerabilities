@@ -14,10 +14,12 @@
 ## 0.0 Introduction
 In this report I am going to be discussing the question; "How to reduce vulnerabilities in a system during development?". I will break the report up into several sections, the first will be primary research where i will take a look at the results from the questionaires that i handed out. The second section is going to be about secondary research, this will be what other sources have discovered through their research methods. Third will be where i compare the two sets of research and their results. The fourth and final section will be a conclusion to the report.
 
-### What is software development?
+### 0.1 What is software development?
 Software development is the process or the course of making a system/application. These systems or applications will then run on a piece of hardware. A key and important step when developing these systems is making sure that they are secure. There is always going to be the risk of new ways for vulnerabilities to arise when developing software however it is important to make sure that you try and minimise these risks or vulnerabiliites during the development stage. 
-### What are vulnerabilities?
-Vulnerabilities within software can be known as bugs, glitches, errors or even flaws, these can be found in not only the software but also the operating system. Software vulnerabilites can easily be missed or left in the software by accident. In order to reduce the chance of this happening then it is important that the correct precausions are taken in order to firstly identify these vulnerabilities but also reduce or remove them.
+
+### 0.2 What are vulnerabilities?
+The definition for a vulnerability is the quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally. In computer security, a vulnerability is a weakness which could be exploited by a threat. These threats could perform unauthorised actions within the computer system which could have malicious intent. A vulnerability can cause a lot of problem for not only users but also developers, this is because not only could it mean users could have important information taken away from them but also the developer who programmed the system could receive backlash from these vulnerabilities.  
+Another way of describing a vulnerability could be a loophole, these loopholes provide a user with malicious intent to gain access to content that they are not supposed too. For instance, if a banking application had a vulnerability then it has the potential to be catastrophic as this could mean that if someone knew how to exploit these vulnerabilities then they could be used to gain information about customers, banking records or even transactions.  
 
 ## 1.0 primary research
 As my main goal from this report is to find out how to reduce vulnerabilities in a system during its development i thought that it might be best to ask some software development students to get their knowledge and understanding. The Questionaire that i have given them to complete will have some questions in relation to cyber security and software vulnerabilities. Through analysing the results i hope to answer three questions. The three questions are below:
@@ -41,6 +43,16 @@ With this last question i wanted to find out how many people had experienced a c
 
 ## 2.0 seconary research
 
+---
+### 2.1 Case study #1: (http://www.bbc.co.uk/news/technology-43128072) 
+For the first study we are going to start by looking at a report by the BBC. The report States that more than 52% of Britons aged 18-25 use the same password for multiple online services. Just of this initial statement this is leaving a lot of people vulnerable for attack. By using the same password for multiple accounts it makes it very easy for someone to hack in to just one account but also gain access to the others.  
+The study also states that 76% of the people they asked had sent sensitive data over a messaging service which makes them very vulnerable for attack. If their account gets hacked, then it is possible for a hacker to gain access to this information. 
+
+---
+### 2.2 Case study #2:
+
+
+---
 ## 3.0 comparison of both sets of research
 
 ## 4.0 conclusion
