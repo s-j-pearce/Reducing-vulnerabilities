@@ -43,11 +43,12 @@ With this last question i wanted to find out how many people had experienced a c
 
 ---
 ### 2.1 Case study #1: (http://www.bbc.co.uk/news/technology-43128072) 
-For the first study we are going to start by looking at a report by the BBC. The report States that more than 52% of Britons aged 18-25 use the same password for multiple online services. Just of this initial statement this is leaving a lot of people vulnerable for attack. By using the same password for multiple accounts it makes it very easy for someone to hack in to just one account but also gain access to the others.  
-The study also states that 76% of the people they asked had sent sensitive data over a messaging service which makes them very vulnerable for attack. If their account gets hacked, then it is possible for a hacker to gain access to this information. 
+For the first study we are going to start by looking at a report by the BBC. The report States that more than 52% of Britons aged 18-25 use the same password for multiple online services. Just of this initial statement this is leaving a lot of people vulnerable for attack. By using the same password for multiple accounts it makes it very easy for someone to hack in to just one account but also gain access to the others.
+
+The study also states that 79% of the people they asked had sent sensitive data over a messaging service which makes them very vulnerable for attack. If their account gets hacked, then it is possible for a hacker to gain access to this information. Some of the sensitive information that was shared through the messaging services include: Bank statements, electronic copies of signatures and other important documents. A lot of this sensitive data is left in the sent mail section which is usually the first place a hacker will check.  
 
 ---
-### 2.2 Case study #2:
+### 2.2 Case study #2: (http://www.bbc.co.uk/news/technology-40850174)
 
 
 ---
