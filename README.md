@@ -39,8 +39,6 @@ I wanted the answer to this question because i wanted to see what vulnerabilitie
 
 With this last question i wanted to find out how many people had experienced a cyber or attack or how many havent. The reason for this is so i can see how many people take care and make sure that they keep their own personal data safe and secure. A good software developer will always make sure to protect and store their data and private files safely. I also wanted to see how many software developers have made simple mistakes and allowed themselves to recieve a form of cyber attack big or small, it still shows a breach in their own security methods.
 
----
-
 ## 2.0 seconary research
 
 ---
