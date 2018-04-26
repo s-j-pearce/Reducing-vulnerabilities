@@ -31,6 +31,8 @@ For the first question i wanted to find out just how important software develope
 
 The image below shows the results of 4 questions from my questionaire that help towards answering my first overall question. The first question within my questionaire that i asked to help understand my first main question was; "On a scale of 1-10, 1 being not very secure and 10 being very secure, how secure do you think your password is?" i asked this question as i wanted to gain an understanding to see how secure the participants thought their password was. As you can see from the results there is a clear mix between how people rate their password. To the far right you can also see that there is an average of 6.8/10, This shows that from these results the average for the 20 participants was 6.8/10 which means that they believe their passwords are fairly secure however they dont see them as very secure.
 
+For the second question i wanted to ask the participants to see if they knew out of the two given examples which password would take the longest to crack.
+
 ![software vulnerabilities questionnaire results question 1](https://user-images.githubusercontent.com/31927590/39117306-a4af0fc4-46de-11e8-8a61-aeda6979fbf3.PNG)
 
 --- 
