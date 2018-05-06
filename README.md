@@ -29,11 +29,15 @@ As my main goal from this report is to find out how to reduce vulnerabilities in
 
 For the first question i wanted to find out just how important software developers considered their own passwords. My reasoning behind this was that a lot of applications that are used to develop software or even the systems that they are used on require password protection to keep the information and data safe, therefore if an individual gained access to the system or application then they can make changes or install viruses, trojans or malware onto the system. I believe that in order to make sure that no one is able to tamper with your work, you need to keep it safe and secure with a very secure passcode as a first line of defence.
 
-The image below shows the results of 4 questions from my questionaire that help towards answering my first overall question. The first question within my questionaire that i asked to help understand my first main question was; "On a scale of 1-10, 1 being not very secure and 10 being very secure, how secure do you think your password is?" i asked this question as i wanted to gain an understanding to see how secure the participants thought their password was. As you can see from the results there is a clear mix between how people rate their password. To the far right you can also see that there is an average of 6.8/10, This shows that from these results the average for the 20 participants was 6.8/10 which means that they believe their passwords are fairly secure however they dont see them as very secure.
-
-For the second question i wanted to ask the participants to see if they knew out of the two given examples which password would take the longest to crack.
+The image below shows the results of 4 questions from my questionnaire that help towards answering my first overall question. The first question within my questionnaire that i asked to help understand my first main question was; "On a scale of 1-10, 1 being not very secure and 10 being very secure, how secure do you think your password is?" I asked this question as i wanted to gain an understanding to see how secure the participants thought their password was. As you can see from the results there is a clear mix between how people rate their password. To the far right you can also see that there is an average of 6.8/10, this shows that from these results the average for the 20 participants was 6.8/10 which means that they believe their passwords are fairly secure however they don’t see them as very secure.
 
 ![software vulnerabilities questionnaire results question 1](https://user-images.githubusercontent.com/31927590/39117306-a4af0fc4-46de-11e8-8a61-aeda6979fbf3.PNG)
+
+For the second question i wanted to ask the participants to see if they knew out of the two given examples which password would take the longest to crack. I used this as a second question as i wanted to compare the results from the first question with this question. I would do this by looking who thought their password was very secure and who got the question wrong, by doing this it would show who is unclear on what makes up a secure password. From the results 7/10 people who got this question wrong believed that their personal password was very secure. This correlation shows and leads me to believe that young developers are unaware of what makes up a secure password which leaves them vulnerable to attacks.
+
+![software vulnerabilities questionnaire results question 1](https://user-images.githubusercontent.com/31927590/39117306-a4af0fc4-46de-11e8-8a61-aeda6979fbf3.PNG)
+
+The third question is 
 
 --- 
 2. What vulnerabilities do student software developers know?
