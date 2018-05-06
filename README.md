@@ -35,10 +35,6 @@ The image below shows the results of 4 questions from my questionnaire that help
 
 For the second question i wanted to ask the participants to see if they knew out of the two given examples which password would take the longest to crack. I used this as a second question as i wanted to compare the results from the first question with this question. I would do this by looking who thought their password was very secure and who got the question wrong, by doing this it would show who is unclear on what makes up a secure password. From the results 7/10 people who got this question wrong believed that their personal password was very secure. This correlation shows and leads me to believe that young developers are unaware of what makes up a secure password which leaves them vulnerable to attacks.
 
-![software vulnerabilities questionnaire results question 1](https://user-images.githubusercontent.com/31927590/39117306-a4af0fc4-46de-11e8-8a61-aeda6979fbf3.PNG)
-
-The third question is 
-
 --- 
 2. What vulnerabilities do student software developers know?
 
