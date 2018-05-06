@@ -38,7 +38,7 @@ For the second question i wanted to ask the participants to see if they knew out
 --- 
 2. What vulnerabilities do student software developers know?
 
-I wanted the answer to this question because i wanted to see what vulnerabilities software developers would already look out for and try to prevent. If a software developer was experienced and knowledgable then they would understand and try to prevent ways of users gaining access in an unwanted attack. The more vulnerabiliites that a software developer knows then the less mistake or loopholes are going to appear in their code. 
+I wanted the answer to this question because i wanted to see what vulnerabilities software developers would already look out for and try to prevent. If a software developer was experienced and knowledgable then they would understand and try to prevent ways of users gaining access in an unwanted attack. The more vulnerabiliites that a software developer knows then the less mistake or loopholes are going to appear in their code. As you can see from the screenshot below i asked the main question: "Other than a virus, can you name any other types of vulnerabilities" The results show that only a small amount of participants could name a more advanced vulnerability e.g. SQL injection and brute force. This leads me to belive that the participants are not as educated in vulnerabilites as they should be.
 
 ![software vulnerabilities questionnaire results question 2](https://user-images.githubusercontent.com/31927590/39117364-af342de4-46de-11e8-9f26-2df08cfe850b.PNG)
 
