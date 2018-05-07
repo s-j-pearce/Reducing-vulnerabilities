@@ -47,6 +47,10 @@ I wanted the answer to this question because i wanted to see what vulnerabilitie
 
 With this last question i wanted to find out how many people had experienced a cyber or attack or how many havent. The reason for this is so i can see how many people take care and make sure that they keep their own personal data safe and secure. A good software developer will always make sure to protect and store their data and private files safely. I also wanted to see how many software developers have made simple mistakes and allowed themselves to recieve a form of cyber attack big or small, it still shows a breach in their own security methods.
 
+To answer the final main question i started by asking to see if any of the participants had experienced any form of cyber attack and if so what was it. out of the 20 participants, 12 have experienced a form of cyber attack, whether it be a small form of attck like a friend trying to log into their account or a serious attack where someones personal accounts are accessed. After reviewing the results i determined that 5 out of the 12 people who had experienced a form of attack, had experienced a serious form of attack. 
+
+My final question; "How do you keep your personal details safe whilst you're online?"is there so i could see the precautions that the participants were and are taking whilst online. 
+
 ![software vulnerabilities questionnaire results question 3](https://user-images.githubusercontent.com/31927590/39117378-b6ec1088-46de-11e8-9961-1a01447cd51d.PNG)
 
 ---
