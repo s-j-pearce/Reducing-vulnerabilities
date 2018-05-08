@@ -22,7 +22,7 @@ The definition for a vulnerability is the quality or state of being exposed to t
 Another way of describing a vulnerability could be a loophole, these loopholes provide a user with malicious intent to gain access to content that they are not supposed too. For instance, if a banking application had a vulnerability then it has the potential to be catastrophic as this could mean that if someone knew how to exploit these vulnerabilities then they could be used to gain information about customers, banking records or even transactions.  
 
 ### 0.3 Difference between Qualitative and Quantitative research:
-When applying research there are two main types to consider, these are **Qualitative** and **Quantitative**. **Qualitative** is where the main goal from asking a specific question is to gain quality feedback or evidence. This can be done by asking a question which requires a more complex answer. 
+When applying research there are two main types to consider, these are **Qualitative** and **Quantitative**. **Qualitative** is where the main goal from asking a specific question is to gain quality feedback or evidence. This can be done by asking a question which requires a more complex answer. Quantitative is where the main goal is to get a numerical value from the questions, for instance you might ask how many hours sleep they get on average each night. The answer should only be a numerical value whereas if the question was qualitative then it might ask, how well would you say you sleep at night, this way it gives the participant the oppertunity to give a detailed response.
 
 ## 1.0 primary research
 As my main goal from this report is to find out how to reduce vulnerabilities in a system during its development i thought that it might be best to ask some software development students to get their knowledge and understanding. The Questionaire that i have given them to complete will have some questions in relation to cyber security and software vulnerabilities. Through analysing the results i hope to answer three questions. The three questions are below:
@@ -37,6 +37,9 @@ The image below shows the results of 4 questions from my questionnaire that help
 ![software vulnerabilities questionnaire results question 1](https://user-images.githubusercontent.com/31927590/39117306-a4af0fc4-46de-11e8-8a61-aeda6979fbf3.PNG)
 
 For the second question i wanted to ask the participants to see if they knew out of the two given examples which password would take the longest to crack. I used this as a second question as i wanted to compare the results from the first question with this question. I would do this by looking who thought their password was very secure and who got the question wrong, by doing this it would show who is unclear on what makes up a secure password. From the results 7/10 people who got this question wrong believed that their personal password was very secure. This correlation shows and leads me to believe that young developers are unaware of what makes up a secure password which leaves them vulnerable to attacks.
+
+![box chart](https://user-images.githubusercontent.com/31927590/39751940-cb098904-52b1-11e8-86f9-3bc5cbfd4dab.PNG)
+
 
 --- 
 2. What vulnerabilities do student software developers know?
