@@ -38,7 +38,7 @@ The image below shows the results of 2 questions from my questionnaire that help
 
 For the second question i wanted to ask the participants to see if they knew out of the two given examples which password would take the longest to crack. I used this as a second question as i wanted to compare the results from the first question with this question. I would do this by looking who thought their password was very secure and who got the question wrong, by doing this it would show who is unclear on what makes up a secure password. From the results 7/10 people who got this question wrong believed that their personal password was very secure. This correlation shows and leads me to believe that young developers are unaware of what makes up a secure password which leaves them vulnerable to attacks.
 
-As a way to show how the results
+As a way to show how the results from the two questions correlate i have created the box chart as seen below. The box chart was a perfect way to show the results as it allowed me to put into perspective just how the questions would connect. Taking a look at the results on the chart, it is simple to understand; the highest and lowest results are shown on the chart by  
 
 ![box chart](https://user-images.githubusercontent.com/31927590/39751940-cb098904-52b1-11e8-86f9-3bc5cbfd4dab.PNG)
 
