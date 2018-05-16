@@ -40,7 +40,7 @@ For the second question i wanted to ask the participants to see if they knew out
 
 As a way to show how the results from the two questions correlate i have created the box chart as seen below. The box chart was a perfect way to show the results as it allowed me to put into perspective just how the questions would connect. Taking a look at the results on the chart, it is simple to understand; the highest and lowest results are shown on the chart by  
 
-![box chart](https://user-images.githubusercontent.com/31927590/39751940-cb098904-52b1-11e8-86f9-3bc5cbfd4dab.PNG)
+![box chart](https://user-images.githubusercontent.com/31927590/40112797-22c8db2e-58ff-11e8-8154-34a83fd9fc18.PNG)
 
 --- 
 2. What vulnerabilities do student software developers know?
