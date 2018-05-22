@@ -74,32 +74,42 @@ For the first study we are going to start by looking at a report by the BBC. The
 
 The study also states that 79% of the people they asked had sent sensitive data over a messaging service which makes them very vulnerable for attack. If their account gets hacked, then it is possible for a hacker to gain access to this information. Some of the sensitive information that was shared through the messaging services include: Bank statements, electronic copies of signatures and other important documents. A lot of this sensitive data is left in the sent mail section which is usually the first place a hacker will check.  
 The study also shows that if an individual reuses the same password for different accounts or applications then this helps ‘cyber-thieves’ to gain access to your precious data. Usually operators of larger firms will try their best to protect your login details by deleting old passwords etc, smaller firms may not be so equipped and fall victim during a data breach. Usually when there is a data breach and a hacker gains access to peoples account information, they wont just stop at that one account or profile. They will try to use the same information to access other accounts and gain as much data from you as possible.
+
 Another survey that was carried out for this research also showed that on average, people regularly used at least six online accounts which could be anything from social media to online shopping. Within the survey some also said that they have as many as 21 other accounts that they log into on a regular basis which obviously increases their risk exponentially.
+
 Along with the study about how many online accounts people used. There was also an interesting finding that 27% of young people would use the same key identifier that unlocked their email if their password had been forgotten. This means that all a hacker needs to do Is gain access to that answer from a previous data breach from a smaller less covered company and then they have all of your data.
 After the survey was released, in a response, the UK’s cyber aware campaign recommended that people start using strong and separate passwords for their email accounts. The recommendation also suggested that people not use names of children, pets or a sports team for their password as this is some of the easiest information to gain access too through social media and other outlets.
+
 The main recommendation from this study though is the use of two-factor verification where possible. Two-factor verification is where users would need to enter a unique code to log in. this code would be sent to a place of the user’s preference usually. The most common being email or their phone by a text message. 
 
 ---
 ### 2.2 Case study #2: (http://www.bbc.co.uk/news/technology-40850174)
 A new study has suggested that cyber-criminals will start to search and attack newly set up servers. An experiment by the BBC asked a security company to carry out an investigation to take a look at the traffic that visited newly set up servers. The experiment showed that just 71 minutes after a server was set up, it was visited by automated attack tools that would scan the server for weaknesses that could be exploited. The experiment also showed that once the new server had been identified and shown as vulnerable, the server would receive a constant wave from attack tools.
+
 The experiment was left online for around 170 hours in order to form a cyber-attack sampling tool which is better known as a honeypot. The servers themselves were given real, public IP addresses and other identifying information that would make them discoverable online. According to the experiment, to make it more realistic, each server was also configured to superficially resemble a legitimate server. Each of the servers could accept requests for web pages, file transfers and secure networking.
+
 Obviously as this was just an investigation there was no more depth put into the servers meaning that they were not capable od doing anything more than providing a very basic response to some queries. The basic queries consisted of basic net services and protocols. 
 The experiment showed that the servers very limited responses did not deter the automated attack tools or bots. It showed that a wide range of attack bots probed the servers looking for weaknesses that could easily be exploited if they were the real deal. Even if the bots did gain access or successfully attack the server, there was nothing there for them to find.
+
 A lot of the code vulnerabilities and other loopholes had already been acknowledged before the experiment took place. They left these in place due to the fact that many organisations sometimes struggle to keep their servers up-to-date with software patches that would fix them. If the updates had been implemented, then these bots would potentially not be able to gain access for the attackers.
 Some statistics from the experiment:
+
 *  17% of the attack bots were scrapers that sought to suck up all the web content they found
 * 37% looked for vulnerabilities in web apps or tried well-known admin passwords
 * 10% checked for bugs in web applications the servers might have been running
 * 29% tried to get at user accounts using brute force techniques that tried commonly used passwords
 * 7% sought loopholes in the operating system software the servers were supposedly running
+
 According to the study, these were very typical patterns for the automated bots. 
 Whilst doing this experiment, the company that run the tests also wanted to find out how quickly phishing gangs would start to target new employees within the BBC. The test started by seeding 100 legitimate marketing email lists with spoof addresses and then they waited to see what else would show up. After around 24 hours, they started to see the first trapped phishing email come through into the emails inbox. This email was followed by a steady number of other messages that sought to trick people in other ways into opening the malicious attachments.
+
 Apparently around 15% of the emails would contain a link which would direct users to a compromised webpage that if they actually visited, it would launch an attack that could possibly compromise the visitor’s computer. The other 85% of the phishing messages just had malicious attachments. Some of these attachments came in the shape of Microsoft office documents, PDF files and executable files.
 
 ---
 ## 3.0 comparison of both sets of research
 
 The overall aim of this report is to find out how to reduce vulnerabilities in a system during development. I first selected the two case studies as a way of gaining some knowledge from an alternate source about vulnerabilities. The first case study was about how young brits lack cyber security awareness. Now with this first case study the main purpose of including it is because a lot of young developers may fall into this category or may even relate to the study. I wanted to learn just how sever the lack of knowledge was overall because there will be young developers that may have been selected for the study and if that is the case then their results will also coincide to show just how vulnerable young developers are to being attacked through the web. 
+
 The second case study that I selected was catching the hackers in the act. Now I wanted to use this study as it shows just how quickly newly set up servers and accounts are targeted. Now as a developer, if you are a new employee or a new business or possibly even just upgrading your server hardware, this puts them at risk for attack. Whether it is receiving phishing emails with links or attachments which can gain access to your data or automated bots designed to extract data from servers. This study shows that it can happen as quickly as 71 minutes after being set up. This leaves development companies that may be expanding either with their server equipment or just employees, both these methods can create or even seek out vulnerabilities.
 
 Now to look at my research and why I have looked into what I have. The main goal of my research was to answer three main questions; 
