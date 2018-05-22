@@ -118,6 +118,7 @@ Now to look at my research and why I have looked into what I have. The main goal
 3. Has anyone of the participants ever experienced a form of cyber-attack and if not how do they prevent it from happening?
 
 Now the reason I wanted to answer those three specific questions after reading the two case studies was because; the questionnaire was only given to young developers and therefore I wanted to see what precautions they were already putting into place to protect their work, even before they might be working on a major project. I also wanted to know if the young developers already know some vulnerabilities to look out for and protect themselves against for the future. And lastly, I wanted to see if anyone had ever experienced a form of cyber-attack as well as if not, what are the young developers doing to prevent them from occurring for them.
+
 From my three main questions I basically wanted to see if young developers were already educated enough to help prevent vulnerabilities during their current work and when they eventually get a job working on larger projects where it will matter the most. The study’s highlight the current risks and vulnerabilities that companies and developers have to deal with and my own research is to find out if all of these recent studies have helped to educate younger developers so that if the two studies are redone in the future, will they show a reduction in vulnerabilities.
 
 ## 4.0 conclusion
