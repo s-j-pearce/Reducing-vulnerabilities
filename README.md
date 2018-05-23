@@ -29,6 +29,19 @@ When applying research there are two main types to consider, these are **Qualita
 ### 0.4 How does this research link to my project aims and objectives?
 By undertaking this research about software vulnerabilities, I will be able to use what I learn to help reduce vulnerabilities within my own project and future projects. My current project actually incorporated multiplayer, so I will need to make sure that I incorporate my findings into my own personal development. Due to the project being multiplayer there will be a greater need to reduce vulnerabilities within the software development process so that they can’t be exploited later on. This research will help me to understand how to test for vulnerabilities and how to better reduce the risks of vulnerabilities being implemented into my project by mistake.
 
+### 0.5 Tools and techniques used:
+During the research project a couple of different tools and techniques were used In order to capture data and analyse it successfully. We will start with taking a look at the techniques used to capture the results and data and then analyse them; 
+
+* Questionnaire – this was given out to 20 participants who would complete it giving us results which we could input into a spreadsheet later on for analysis.
+* Case study research – I looked at two different case studies in order to further my understanding and knowledge in relation to cyber security and software vulnerabilities.
+
+The tools that we used were mainly used in order to capture the information and then analyse the results to come up with multiple conclusions for the report. The list of tools and why we used them are listed below;
+
+* Microsoft word – word was used to create the questionnaire that would in turn capture the results and allow us to complete this research project.
+* Microsoft Excel – Excel was used to enter all of the results into a spreadsheet where we would be able to analyse them at a greater detail. Within excel we were able to create graphs and charts to help further justify our findings. 
+
+All of the tools and techniques that were used helped massively to provide the three conclusions that we got from this research project. 
+
 ## 1.0 primary research
 As my main goal from this report is to find out how to reduce vulnerabilities in a system during its development i thought that it might be best to ask some software development students to get their knowledge and understanding. The Questionnaire that I have given them to complete will have some questions in relation to cyber security and software vulnerabilities. Through analysing the results i hope to answer three questions. The three questions are below:
 
